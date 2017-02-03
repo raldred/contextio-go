@@ -1,4 +1,4 @@
-package: github.com/contextio/contextio-go
+package: github.com/raldred/contextio-go
 import:
 - package: github.com/Sirupsen/logrus
 - package: github.com/pkg/errors
