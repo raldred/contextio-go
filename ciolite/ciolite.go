@@ -6,7 +6,7 @@ import (
 	"net/http/httptest"
 	"time"
 
-	"github.com/contextio/contextio-go/cioutil"
+	"github.com/raldred/contextio-go/cioutil"
 )
 
 const (
